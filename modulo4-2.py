@@ -2,7 +2,7 @@
 
 
 print("********************************")
-print("Bem vindo no johgo de Advinhacão")
+print("Bem vindo no jogo de Advinhacão")
 print("********************************")
 
 numero_secreto = 10
@@ -12,7 +12,7 @@ rodada = 1
 
 #String interpolation => interpolação de strings
 while (rodada <= total_de_tentativas):
-    print("Tentativa {} de {}".format(rodada, total_de_tentativas)) #format é uma funcao que chama as duas variaveis seguintes para dentro dos {}
+    print("Tentativa {} de {}".format(rodada, total_de_tentativas)) #format é uma funcao que chama as duas variaveis seguintes para dentro dos {} => "String interpolation"
     chute_str = input("Digite o numero: ")
     print("Começo do teste!!", chute_str)
     ##chute_srt = input ("Digite seu numero: ")

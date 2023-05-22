@@ -2,7 +2,7 @@
 
 numero_secreto = 43
 print("********************************")
-print("Bem vindo no johgo de Advinhacão")
+print("Bem vindo no jogo de Advinhacão")
 print("********************************")
 chute_srt = input("Digite o seu numero: ")
 print("Voce digitou o numero", chute_srt)

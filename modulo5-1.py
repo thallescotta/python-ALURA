@@ -1,3 +1,4 @@
+#https://cursos.alura.com.br/course/python-introducao-a-linguagem/task/24567
 #modulo5 - 01: Laço com for
 print("********************************")
 print("Bem vindo no johgo de Advinhacão")
