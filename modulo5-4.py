@@ -1,7 +1,7 @@
 #modulo5 - 04:  Encerrando a interação e o loop
 
 print("********************************")
-print("Bem vindo no johgo de Advinhacão")
+print("Bem vindo no jogo de Advinhacão")
 print("********************************")
 
 numero_secreto = 10

@@ -6,3 +6,6 @@ https://codeload.github.com/alura-cursos/Curso-Python-3-parte-1-Introdu-o-nova-v
 https://github.com/alura-cursos/Curso-Python-3-parte-1-Introdu-o-nova-vers-o-da-linguagem/archive/capitulo4.zip
 https://codeload.github.com/alura-cursos/Curso-Python-3-parte-1-Introdu-o-nova-vers-o-da-linguagem/zip/refs/heads/capitulo4
 
+https://github.com/alura-cursos/Curso-Python-3-parte-1-Introdu-o-nova-vers-o-da-linguagem/archive/capitulo5.zip
+https://codeload.github.com/alura-cursos/Curso-Python-3-parte-1-Introdu-o-nova-vers-o-da-linguagem/zip/refs/heads/capitulo5
+

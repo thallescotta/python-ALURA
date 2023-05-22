@@ -3,7 +3,7 @@
 #contado 3 rodadas, fazendo o while e verfica-se no Run o comportamento alcançado
 
 print("********************************")
-print("Bem vindo no johgo de Advinhacão")
+print("Bem vindo no jogo de Advinhacão")
 print("********************************")
 
 numero_secreto = 10
