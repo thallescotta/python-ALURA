@@ -1,0 +1,32 @@
+
+10 Python 2 vs Python 3 - #1
+https://cursos.alura.com.br/course/python-introducao-a-linguagem/task/24455
+
+Quais funções existem no Python 3?
+
+(F) raw_input(..)
+(V) input(...)
+(V) print(...)
+(F) int(...)
+
+As funções input(...), print(...) e int(...) existem no Python 3.
+A função raw_input(..) existe apenas no Python 2.
+
+
+
+
+
+11 Python 2 vs Python 3 - #2
+https://cursos.alura.com.br/course/python-introducao-a-linguagem/task/22693
+
+Marque todas as alternativas verdadeiras:
+
+Selecione 4 alternativas
+
+(V) No Python 3, a instrução print("ola", "mundo") imprime como saída ola mundo, diferente do Python 2, que possui como saída ('ola', 'mundo').
+(F) No Python 2, a função print aceita o parâmetro nomeado sep.
+(V) No Python 2, quando digitamos um valor numérico através de input, ele automaticamente converte de str para int. Já o Python 3 não assume essa conversão automática, sendo o desenvolvedor responsável por fazê-la.
+(V) A função raw_input só existe em Python 2 e quando usada, lê a entrada como str, sem realizar conversões de tipos, como na função input.
+(V) Uma função em Python 3 sempre deve possuir parênteses.
+
+
